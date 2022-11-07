@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login UTS</string>
+    <string name="email_not_valid">Email tidak valid!</string>
+    <string name="pass_length_less_than_8">Password harus lebih dari 8 karakter!</string>
+    <string name="keluarText">Keluar</string>
+    <string name="Login_text">Login</string>
+    <string name="backButton">Back</string>
+</resources>
